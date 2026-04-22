@@ -1,5 +1,6 @@
-// 1–3: addTwoAndSeven function
-function addTwoAndSeven() {
-    return 2 + 7;
+// 4: addThreeAndFour function
+function addThreeAndFour() {
+    return 3 + 4;
 }
-console.log(addTwoAndSeven()); // 9
+console.log(addThreeAndFour()); // 7
+
